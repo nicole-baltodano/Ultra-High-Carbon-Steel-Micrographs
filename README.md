@@ -1,7 +1,5 @@
----
-title: "Multimodal Classification of Microconstituents in Heat-Treated Steel"
-output: html_document
----
+
+# "Multimodal Classification of Microconstituents in Ultra High Carbon Steel"
 
 ## 📌 Overview  
 This project applies a **multimodal deep learning approach** to classify microconstituents in high-carbon steel micrographs. It integrates **Convolutional Neural Networks (CNNs)** for image-based classification and a **Multilayer Perceptron (MLP)** for numerical/tabular data to improve prediction accuracy.
